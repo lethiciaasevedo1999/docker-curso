@@ -1,6 +1,7 @@
 ## DOCKER🐳
 
-Você sabe o que é o Docker? Provavelmente já ouviu a famosa frase "Na minha máquina não roda". O Docker surgiu justamente para resolver esse problema.
+Você sabe o que é o Docker? 
+Provavelmente já ouviu a famosa frase "Na minha máquina não roda". O Docker surgiu justamente para resolver esse problema.
 Docker é uma plataforma de contêineres que permite desenvolver, empacotar e executar aplicações de forma consistente e isolada em qualquer ambiente. Utilizando contêineres leves e eficientes, Docker garante que a aplicação funcione de maneira idêntica em diferentes sistemas operacionais e configurações, eliminando problemas de compatibilidade.
 
 <img src="/mascote-docker.webp" alt="Mascote docker- baleia azul">
